@@ -61,7 +61,7 @@ class Tester(object):
         return mae,mre,medAE,medRE,r2;
 
 
-# 按间距中的绿色按钮以运行脚本。
+
 if __name__ == '__main__':
 
     num_works = 1
